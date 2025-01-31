@@ -1,5 +1,5 @@
 export const environment = {
 
-    ApiRul: "https://localhost:7016/api/",
+    ApiRul: "https://localhost:7016/api",
 
 };
